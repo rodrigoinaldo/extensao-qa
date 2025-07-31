@@ -16,6 +16,8 @@ A estrutura está organizada por pastas, cada uma representando um sistema/teste
 
 📁 OrangeHRM ↳ Casos de Teste, Cenários, Relatórios de Bug e Evidências
 
+site = https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
 🧪 Metodologia
 Técnicas aplicadas: Testes Positivos, Negativos, Exploratório, Funcional
 Ferramentas: Markdown, GitHub.
