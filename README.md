@@ -16,7 +16,6 @@ A estrutura está organizada por pastas, cada uma representando um sistema/teste
 
 📁 OrangeHRM ↳ Casos de Teste, Cenários, Relatórios de Bug e Evidências
 
-site = https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 🧪 Metodologia
 Técnicas aplicadas: Testes Positivos, Negativos, Exploratório, Funcional
@@ -27,3 +26,7 @@ Processos: Planejamento de Teste, Execução e Relatório
 📌 Status do Projeto
 ✅ Ativo e em constante evolução 
 📋 Feedbacks são bem-vindos!
+
+🚀 Sites interessantes para prática
+OrangeHRM Demo (https://opensource-demo.orangehrmlive.com)
+
