@@ -48,6 +48,8 @@ https://jam.dev/c/89b47159-9f08-4e70-9707-3d5235fb8743
 | :-------------------------------------------------------------- |
 | A mensagem de erro \"Invalid credentials\" deve ser exibida.    |
 
+https://jam.dev/c/f31dc3b0-b064-4d0d-ac3f-00568463619e
+
 ---
 
 ### Caso de Teste 03: Tentativa de login com campos em branco.
@@ -70,3 +72,5 @@ https://jam.dev/c/89b47159-9f08-4e70-9707-3d5235fb8743
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
+
+https://jam.dev/c/4cf31335-a831-4bbd-8af8-ad7f576a8271
