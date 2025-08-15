@@ -70,3 +70,5 @@ https://jam.dev/c/e31bd6d7-46fa-47f0-8acc-22c845e8d190
 | :-------------------------------------------------------------- |
 | A sessão expirada deve ser tratada corretamente com redirecionamento. |
 
+Teste passou com sucesso
+https://jam.dev/c/1f50d171-3b3d-4f76-ba2d-75beb68a8934
