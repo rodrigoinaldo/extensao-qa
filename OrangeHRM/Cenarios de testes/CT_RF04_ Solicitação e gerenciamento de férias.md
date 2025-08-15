@@ -23,7 +23,7 @@
 | :-------------------------------------------------------------- |
 | A solicitação deve aparecer listada em \"My Leave\".            |
 
-Teste Reprovado
+Teste Aprovado - falha esperado conforme relatorio de BUGS
 
 [Video](https://jam.dev/c/85df1b0c-e81a-4f3c-86d4-b52d912ab99f)
 ---
