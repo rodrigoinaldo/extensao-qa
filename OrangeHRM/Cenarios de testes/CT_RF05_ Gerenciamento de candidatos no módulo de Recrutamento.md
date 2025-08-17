@@ -49,7 +49,8 @@ Teste aprovado e evidenciado
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem ser validados com mensagens de erro. |
 
-
+Teste aprovado e evidencia
+[Video](https://jam.dev/c/80dd88d1-81ba-4400-b4f4-9c2319f1a9c1)
 ---
 
 ### Caso de Teste 03: Buscar candidato cadastrado pelo nome.
@@ -72,3 +73,6 @@ Teste aprovado e evidenciado
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O candidato pesquisado deve ser exibido na lista de resultados. |
+
+Teste aprovado e evidenciado
+[Video](https://jam.dev/c/282438cf-e63b-4fe5-8aa3-4088ed654d89)
