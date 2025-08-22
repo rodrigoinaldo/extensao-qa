@@ -22,6 +22,8 @@
 | :-------------------------------------------------------------- |
 | O usuário cadastrado deve aparecer na lista de usuários ativos. |
 
+Teste aprovado e homologado
+[Video](https://jam.dev/c/a63dffa1-0622-4eaa-9a8a-356f11b8f3f6)
 ---
 
 ### Caso de Teste 02: Tentativa de adicionar usuário com nome de usuário já existente.
