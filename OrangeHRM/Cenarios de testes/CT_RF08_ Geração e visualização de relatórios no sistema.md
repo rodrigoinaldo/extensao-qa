@@ -21,6 +21,10 @@
 | :-------------------------------------------------------------- |
 | O relatório deve apresentar os dados corretos conforme os filtros aplicados. |
 
+| **Teste**                                      |
+| :-------------------------------------------------------------- |
+| []() |
+
 ---
 
 ### Caso de Teste 02: Gerar relatório sem selecionar filtros obrigatórios.
@@ -44,6 +48,10 @@
 | :-------------------------------------------------------------- |
 | O sistema deve bloquear a geração do relatório e exibir erro claro. |
 
+| **Teste**                                      |
+| :-------------------------------------------------------------- |
+| []() |
+
 ---
 
 ### Caso de Teste 03: Exportar relatório gerado em PDF.
@@ -65,3 +73,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O download do arquivo PDF deve ocorrer com os dados exibidos na tela. |
+
+| **Teste**                                      |
+| :-------------------------------------------------------------- |
+| []() |
