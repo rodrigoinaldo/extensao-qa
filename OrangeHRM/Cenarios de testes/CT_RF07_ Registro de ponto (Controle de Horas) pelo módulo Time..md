@@ -73,6 +73,6 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente os registros existentes da data informada. |
 
-| **Teste**                                      |
+| **Teste Aprovado e Homologado**|
 | :-------------------------------------------------------------- |
-| []() |
+| [Video](https://jam.dev/c/c4e3a9fc-daab-42df-9af6-c7a23d498f8f) |
