@@ -21,9 +21,9 @@
 | :-------------------------------------------------------------- |
 | O relatório deve apresentar os dados corretos conforme os filtros aplicados. |
 
-| **Teste**                                      |
+| **Teste Aprovado e Homologado**|
 | :-------------------------------------------------------------- |
-| []() |
+| [Video](https://jam.dev/c/cf980934-8cf0-41b1-9ee7-4e14d4908d40) |
 
 ---
 
