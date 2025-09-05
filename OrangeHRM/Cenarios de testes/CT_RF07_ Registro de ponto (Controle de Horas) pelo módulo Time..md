@@ -47,9 +47,9 @@
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o registro e apresentar mensagem adequada. |
 
-| **Teste**                                      |
+| **Teste Aprovado e Homologado**                                      |
 | :-------------------------------------------------------------- |
-| []() |
+| [Video](https://jam.dev/c/34ffc23d-6fcb-4449-a2c8-42fd2a52f526) |
 
 ---
 
