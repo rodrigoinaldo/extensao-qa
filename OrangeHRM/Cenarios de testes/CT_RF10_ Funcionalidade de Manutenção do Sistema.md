@@ -21,9 +21,9 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de manutenção e bloquear o acesso às funcionalidades. |
 
-| **Teste**                                      |
+| **Teste Aprovado e homologado**|
 | :-------------------------------------------------------------- |
-| []() |
+| [Video]() |
 
 ---
 
@@ -48,9 +48,9 @@
 | :-------------------------------------------------------------- |
 | O usuário deve ser capaz de acessar o sistema normalmente.      |
 
-| **Teste**                                      |
+| **Teste aprovado e homologado**|
 | :-------------------------------------------------------------- |
-| []() |
+| [Video]() |
 
 ---
 
@@ -75,6 +75,6 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de falha e manutenção, informando que o sistema está indisponível. |
 
-| **Teste**                                      |
+| **Teste aprovado e homologado**|
 | :-------------------------------------------------------------- |
-| []() |
+| [Video]() |
