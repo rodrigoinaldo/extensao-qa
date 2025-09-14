@@ -21,9 +21,9 @@
 | :-------------------------------------------------------------- |
 | O nome, cargo e localização do colaborador devem ser exibidos corretamente. |
 
-| **Teste**                                      |
+| **Teste aprovado e homologado**|
 | :-------------------------------------------------------------- |
-| []() |
+| [Video](https://jam.dev/c/768846d4-83d3-42f6-aa77-de97010223e6) |
 
 ---
 
@@ -48,9 +48,9 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir claramente que não há registros encontrados. |
 
-| **Teste**                                      |
+| **Teste Aprovado e homologado**|
 | :-------------------------------------------------------------- |
-| []() |
+| [Video](https://jam.dev/c/9caa7587-2b52-4fca-bd97-f10d722ee09a) |
 ---
 
 ### Caso de Teste 03: Aplicar filtro por cargo (Job Title).
@@ -74,6 +74,6 @@
 | :-------------------------------------------------------------- |
 | O filtro deve funcionar corretamente e retornar apenas resultados válidos. |
 
-| **Teste**                                      |
+| **Teste aprovado e homologado**|
 | :-------------------------------------------------------------- |
-| []() |
+| [Video](https://jam.dev/c/b73efe8f-0c56-4d07-95ca-10fb7c761e48) |
