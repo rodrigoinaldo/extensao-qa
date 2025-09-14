@@ -48,9 +48,9 @@
 | :-------------------------------------------------------------- |
 | O sistema deve bloquear a geração do relatório e exibir erro claro. |
 
-| **Teste**                                      |
+| **Teste Reprovado**|
 | :-------------------------------------------------------------- |
-| []() |
+| [Video](https://jam.dev/c/52d49f8d-cf5f-41ae-ad26-8157cabf4f49) |
 
 ---
 
@@ -74,6 +74,6 @@
 | :-------------------------------------------------------------- |
 | O download do arquivo PDF deve ocorrer com os dados exibidos na tela. |
 
-| **Teste**                                      |
+| **Teste Aprovado e Homologado**                                      |
 | :-------------------------------------------------------------- |
-| []() |
+| [Video]() |
